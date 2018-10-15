@@ -1,0 +1,25 @@
+{
+  "name": "test-reg-suit",
+  "version": "1.0.0",
+  "description": "Just testing out reg-suit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwcz/test-reg-suit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwcz/test-reg-suit/issues"
+  },
+  "homepage": "https://github.com/mwcz/test-reg-suit#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "reg-keygen-git-hash-plugin": "^0.7.6",
+    "reg-notify-github-plugin": "^0.7.6",
+    "reg-suit": "^0.7.14"
+  }
+}
